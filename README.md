@@ -1,5 +1,5 @@
 # Demo Application: BookStore App services on K8S 
-# Adding a comment to the readme file doing it again baka 
+# Adding a comment to the readme file doing it again Vaishnavi  
 Follows micro-services approach. Run locally using docker-compose and traefik as loadbalancer/proxy; and on Kubernetes (DigitalOcean Managed).
 
 > ## Announcement: Course on Kubernetes
