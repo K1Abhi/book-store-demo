@@ -18,7 +18,7 @@ services:
       - traefik.enable=true
       - traefik.http.routers.shopui.rule=PathPrefix(`/shop`)
       - traefik.http.routers.shopui.entrypoints=web
-      - traefik.http.services.shopui.loadbalancer.server.port=700    
+      - traefik.http.services.shopui.loadbalancer.server.port=300    
 
   shopapi:
     image: devteds/demo-bookstore-shopapi:1.0
