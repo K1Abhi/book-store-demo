@@ -1,5 +1,7 @@
 variable "do_token" {}
 
+env = "make_shift" 
+
 provider "digitalocean" {
   token = var.do_token
 }
